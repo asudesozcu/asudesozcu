@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asudesozcu" alt="asudesozcu" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on projects.
+  
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sozcuasude@gmail.com**
 
