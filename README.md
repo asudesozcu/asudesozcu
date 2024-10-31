@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asudesozcu" alt="asudesozcu" /></a> </p>
 
-- 🔭 I’m currently working on **projects**
-
-- 🌱 I’m currently learning **Flutter**
-
+- 🔭 trying to expand my knowledge of **Python**
+- 🌱 I’m currently learning **.Net**
 - 📫 How to reach me **sozcuasude@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
